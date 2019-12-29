@@ -35,4 +35,4 @@ def square_root(num)
 square_num = (num)
 end
 
-square_root(5)
+square_root(10)
