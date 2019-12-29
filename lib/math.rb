@@ -24,10 +24,14 @@ def multiplication(num1, num2)
   puts multi_numb
 end
 
+multiplication(10,10)
+
 def modulo(num1, num2)
-  
+  modulo_num = num1 % num2
 end
+modulo(10,5)
 
 def square_root(num)
-
+square_root_num = ((num))
 end
+square_root(num)
