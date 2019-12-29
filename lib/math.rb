@@ -32,6 +32,6 @@ end
 modulo(10,5)
 
 def square_root(num)
-square_root_num = ((num))
+square_root_num = square_root (num)
 end
 square_root(10)
