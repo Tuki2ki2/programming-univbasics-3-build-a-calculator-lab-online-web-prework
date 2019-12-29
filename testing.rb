@@ -17,7 +17,7 @@ def division(num1, num2)
     puts division_numb
 end
 
-division (10,2)
+division(10,2)
 
 def multiplication(num1, num2)
   multi_numb = num1 * num2
