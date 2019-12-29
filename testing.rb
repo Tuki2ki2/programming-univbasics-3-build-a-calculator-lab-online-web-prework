@@ -1,6 +1,4 @@
-def maths (num1, num2)
+def maths(num1, num2)
   sum = num1 + num2
   puts sum 
 end
-
-maths ('5','5')
