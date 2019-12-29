@@ -1,7 +1,8 @@
-a=2 
-b = 4
+def addition(Integer1, Integer2)
+  sum = Integer1 + Integer2 
+  puts sum
+end
 
-c = a +b 
-puts c 
+addition (3,3)
 
 
