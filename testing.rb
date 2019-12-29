@@ -17,21 +17,22 @@ def division(num1, num2)
     puts division_numb
 end
 
-division (10,2)
+division(10,2)
 
 def multiplication(num1, num2)
   multi_numb = num1 * num2
   puts multi_numb
 end
 
-multiplication(10,10)
+multiplication(2,2)
 
 def modulo(num1, num2)
   modulo_num = num1 % num2
 end
-modulo(10,5)
+modulo(100,5)
 
 def square_root(num)
-square_root_num = square_root (num)
+square_num = (num)
 end
-square_root(10)
+
+square_root(100)
