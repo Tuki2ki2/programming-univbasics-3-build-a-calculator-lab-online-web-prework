@@ -29,7 +29,7 @@ multiplication(2,2)
 def modulo(num1, num2)
   modulo_num = num1 % num2
 end
-modulo(10,3)
+modulo(10,5)
 
 def square_root(num)
 square_num = (num)
