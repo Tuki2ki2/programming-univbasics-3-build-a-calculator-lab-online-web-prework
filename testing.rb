@@ -3,4 +3,4 @@ def maths(num1, num2)
   puts sum 
 end
 
-maths (1,1)
+maths ('1','1')
