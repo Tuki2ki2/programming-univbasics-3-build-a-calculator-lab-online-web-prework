@@ -1,6 +1,4 @@
-def maths(num1, num2)
-  sum = #{num1} + #{num2}
-  puts sum 
-end
+a=2 
+b = 4
 
-maths ('1','1')
+c = a +b 
